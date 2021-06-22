@@ -13,4 +13,3 @@
 * 認定 Platform デベロッパー
 * 認定 Platform アプリケーションビルダー
 
-* Paiza Bランク
