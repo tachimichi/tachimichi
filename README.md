@@ -13,4 +13,4 @@
 * 認定 Platform デベロッパー
 * 認定 Platform アプリケーションビルダー
 * 認定 上級 Platform デベロッパー 
-
+* 認定 Data アーキテクト 
